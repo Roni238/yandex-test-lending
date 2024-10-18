@@ -1,0 +1,19 @@
+:root {
+    /* header */
+    --header-bg-color: #E9DED4;
+
+    /* running line */
+    --running-line-bg-color:#F54932;
+    --running-line-color:#FFF;
+
+    /* text */
+    --text-color: #313131;
+    --accent-text-color: #F54932;
+    --link-color: #3057A2;
+
+    /* buttons */
+    --black-btn-color: #1F1F1F;
+    --yellow-bnt-color: #FBCE51;
+    --blue-bnt-color: #3057A2;
+    --disable-btn-color: #D6D6D6;
+  }
